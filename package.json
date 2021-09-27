@@ -6,6 +6,10 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "@material/button": "^13.0.0",
+    "@material/ripple": "^13.0.0",
+    "@material/textfield": "^13.0.0",
+    "@material/top-app-bar": "^13.0.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
